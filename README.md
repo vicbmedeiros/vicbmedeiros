@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Victoria Bonatti Medeiros
 =================================================================================================================================================
 
-Data Scientist
---------------
+Data Scientist/Data Analyst
+---------------------------
 
 As an aspiring professional, I am keen to expand my skills in Python programming and delve into the exciting field of Machine Learning. Recognizing the increasing importance of data-driven decision-making in today's competitive landscape, I am eager to equip myself with the tools and knowledge necessary to harness the power of data. Therefore, I am committed to investing time and effort into mastering both Python and Machine Learning techniques, with the goal of contributing effectively to the success of our team and organization.
 
