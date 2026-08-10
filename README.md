@@ -1,15 +1,50 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Victoria Bonatti Medeiros
-=================================================================================================================================================
+# Hi, I'm Victoria Bonatti Medeiros 👋
 
-Data Scientist/Data Analyst
----------------------------
+### Senior Data & AI Engineer | CTO @ Freedom.AI
 
-As an aspiring professional, I am keen to expand my skills in Python programming and delve into the exciting field of Machine Learning. Recognizing the increasing importance of data-driven decision-making in today's competitive landscape, I am eager to equip myself with the tools and knowledge necessary to harness the power of data. Therefore, I am committed to investing time and effort into mastering both Python and Machine Learning techniques, with the goal of contributing effectively to the success of our team and organization.
+I build production-ready data and AI solutions, working across data engineering, applied AI, LLMs, APIs, enterprise integrations, and technical architecture.
 
-* 🌍  I'm based in Brasil
-* ✉️  You can contact me at [vicmedeiros2@gmail.com](mailto:vicmedeiros2@gmail.com)
-* 🧠  I'm learning more of Machine Learning
-* 🤝  I'm open to collaborating on Projects with Python and SQL
+Currently, I lead engineering at Freedom.AI while remaining hands-on in the development of AI and data products.
+
+## 💻 What I work with
+
+### Data Engineering
+Python · SQL · PostgreSQL · BigQuery · ClickHouse · ETL · Data Architecture
+
+### AI Engineering
+LLMs · AI Agents · RAG · Machine Learning · Generative AI · Prompt Engineering
+
+### Software & Infrastructure
+REST APIs · Docker · Git · GitHub · Linux · Cloud
+
+### Analytics
+Power BI · Apache Superset · Pandas · Scikit-learn
+
+## 🚀 What I build
+
+- AI agents integrated with enterprise systems
+- Data pipelines and analytical platforms
+- LLM-powered applications
+- APIs and system integrations
+- Business intelligence and data products
+- Production AI workflows with human approval and automation
+
+## 👩‍💻 Current role
+
+**CTO @ Freedom.AI**
+
+Leading engineering strategy, architecture, and delivery for AI and data products while remaining hands-on in critical technical implementations.
+
+## 🌍 About me
+
+🇧🇷 Based in Brazil  
+🇮🇹 Italian / EU citizen  
+🗣️ Portuguese & English  
+🌎 Interested in international Data & AI opportunities
+
+## 🔗 Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL)
 
 ### Skills
 
