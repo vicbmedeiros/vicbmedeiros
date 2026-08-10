@@ -40,7 +40,7 @@ Leading engineering strategy, architecture, and delivery for AI and data product
 🇧🇷 Based in Brazil  
 🇮🇹 Italian / EU citizen  
 🗣️ Portuguese & English  
-🌎 Interested in international Data & AI opportunities
+
 
 ## 🔗 Connect
 
