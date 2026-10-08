@@ -1,53 +1,44 @@
-# Hi, I'm Victoria Bonatti Medeiros 👋
+# Hi, I'm Victoria 👋
 
-### AI Engineer & Senior Data
+### AI Engineer | Applied AI · LLM Agents · Software Engineering
 
-I build production-ready data and AI solutions, working across data engineering, applied AI, LLMs, APIs, enterprise integrations, and technical architecture.
+I'm an AI Engineer focused on designing and building real-world AI applications, from architecture and implementation to production delivery.
 
+My experience combines hands-on software engineering, data engineering, enterprise integrations, and technical leadership.
 
-## 💻 What I work with
+I've worked directly with enterprise clients to translate business challenges into practical AI solutions, including LLM-powered workflows, AI agents, document intelligence, and automation.
 
-### Data Engineering
-Python · SQL · PostgreSQL · BigQuery · ClickHouse · ETL · Data Architecture
+### 🚀 What I do
 
-### AI Engineering
-LLMs · AI Agents · RAG · Machine Learning · Generative AI · Prompt Engineering
+- **Applied AI & LLMs:** AI agents, RAG, tool calling, structured outputs, and workflow automation.
+- **Software Engineering:** Python, TypeScript, REST APIs, backend development, and system architecture.
+- **Data Engineering:** SQL, PostgreSQL, ETL pipelines, and data integration.
+- **Enterprise AI:** Integrating AI applications with business systems, APIs, and internal workflows.
+- **Technical Leadership:** Architecture decisions, code review, engineering coordination, and delivery.
 
-### Software & Infrastructure
-REST APIs · Docker · Git · GitHub · Linux · Cloud
+### 💡 Selected experience
 
-### Analytics
-Power BI · Apache Superset · Pandas · Scikit-learn
+**Enterprise AI Workflow Automation**
 
-## 🚀 What I build
+Helped build an AI-powered workflow for a commercial team of approximately 100 people, combining meeting transcription, structured information extraction, human validation, and CRM integration.
 
-- AI agents integrated with enterprise systems
-- Data pipelines and analytical platforms
-- LLM-powered applications
-- APIs and system integrations
-- Business intelligence and data products
-- Production AI workflows with human approval and automation
+- Reduced manual recording time from approximately 12 to 3 minutes.
+- Supported over 1,000 processed records in less than two months.
+- Integrated transcription, LLM processing, and Salesforce.
 
+*Professional experience summary. Proprietary implementation and customer data are not publicly available.*
 
-## 🌍 About me
+### 🛠️ Technologies
 
-🇧🇷 Based in Brazil, open to new opportunities
-🇮🇹 Italian / EU citizen  
-🗣️ Portuguese & English  
+Python · TypeScript · SQL · PostgreSQL · FastAPI · Node.js · Docker · OpenAI API · RAG · AI Agents · Git · Cloud Infrastructure
 
+### 🌍 About me
 
-## 🔗 Connect
+- Based in Brazil
+- Italian / EU citizen
+- Portuguese & English
+- Open to international AI Engineering opportunities
+
+### 📫 Connect
 
 [LinkedIn](https://www.linkedin.com/in/victoria-bonatti-medeiros)
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/vicbmedeiros" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/vicbmedeiros" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/victoria-bonatti-medeiros" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/vicbonatti" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@vicbmedeiros" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
