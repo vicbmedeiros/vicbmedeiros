@@ -38,7 +38,7 @@ Power BI · Apache Superset · Pandas · Scikit-learn
 
 ## 🔗 Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](https://www.linkedin.com/in/victoria-bonatti-medeiros)
 
 ### Skills
 
