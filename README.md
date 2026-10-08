@@ -1,10 +1,9 @@
 # Hi, I'm Victoria Bonatti Medeiros 👋
 
-### Senior Data & AI Engineer | CTO @ Freedom.AI
+### AI Engineer & Senior Data
 
 I build production-ready data and AI solutions, working across data engineering, applied AI, LLMs, APIs, enterprise integrations, and technical architecture.
 
-Currently, I lead engineering at Freedom.AI while remaining hands-on in the development of AI and data products.
 
 ## 💻 What I work with
 
@@ -29,15 +28,10 @@ Power BI · Apache Superset · Pandas · Scikit-learn
 - Business intelligence and data products
 - Production AI workflows with human approval and automation
 
-## 👩‍💻 Current role
-
-**CTO @ Freedom.AI**
-
-Leading engineering strategy, architecture, and delivery for AI and data products while remaining hands-on in critical technical implementations.
 
 ## 🌍 About me
 
-🇧🇷 Based in Brazil  
+🇧🇷 Based in Brazil, open to new opportunities
 🇮🇹 Italian / EU citizen  
 🗣️ Portuguese & English  
 
